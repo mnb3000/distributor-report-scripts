@@ -4,7 +4,9 @@ These are my scripts for optimizing work process with music distribution compani
 ## Requirements
 You need `pandas` in order to use these scripts. You can install it via pip
 
-```$ pip install pandas```
+```
+$ pip install pandas
+```
 
 or use a distribution like `anaconda` and use the provided Jupyter notebook
 
