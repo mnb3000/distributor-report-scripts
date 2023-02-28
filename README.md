@@ -30,3 +30,6 @@ optional arguments:
   -h, --help            show this help message and exit
   -f FILE, --file FILE  csv file path
 ```
+
+## Customization
+If you are not using the same distributor and/or report schema and your columns have different names - each script has those defined at the top, so you can easily customize it as it suits you
