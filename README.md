@@ -42,7 +42,7 @@ optional arguments:
                         csv file encoding (default "utf8, but bandcamp needs "utf-16")
 ```
 
-## Customization
+## Customization/Examples
 If you are not using the same distributor and/or report schema and your columns have different names - each script has those column names available as optional arguments, so you can easily customize it as it suits you
 
 For **Bandcamp** the arguments would be:
