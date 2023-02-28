@@ -13,7 +13,7 @@ or use a distribution like `anaconda` and use the provided Jupyter notebook
 ## Usage
 
 ```
-$ python report_split.py -h
+$ python3 report_split.py -h
 usage: report_split.py [-h] -p PREFIX -f FILE
 
 optional arguments:
@@ -25,7 +25,7 @@ optional arguments:
 ```
 
 ```
-$ python report_sum.py -h
+$ python3 report_sum.py -h
 usage: report_sum.py [-h] -f FILE
 
 optional arguments:
